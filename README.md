@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raja Mathiyalagan</h1>
-<h3 align="center">A passionate FRONTEND Developer from India</h3>
+<h3 align="center">A passionate FrontEnd Developer from India</h3>
 
 - 🌱 I’m currently learning **Typescript**
 
